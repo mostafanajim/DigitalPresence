@@ -236,7 +236,7 @@ class MainCard extends StatelessWidget {
                       width: 60,
                       height: 60,
                       child: TextButton(
-                        onPressed: Hogwarts,
+                        onPressed: PG,
                         child: CButton(image: 'assets/images/pg.png'),
                       ),
                     ),
@@ -255,7 +255,7 @@ class MainCard extends StatelessWidget {
                       width: 60,
                       height: 60,
                       child: TextButton(
-                        onPressed: Hogwarts,
+                        onPressed: BAU,
                         child: CButton(image: 'assets/images/bau.png'),
                       ),
                     ),
@@ -274,7 +274,7 @@ class MainCard extends StatelessWidget {
                       width: 60,
                       height: 60,
                       child: TextButton(
-                        onPressed: Hogwarts,
+                        onPressed: AKU,
                         child: CButton(image: 'assets/images/aku.png'),
                       ),
                     ),
